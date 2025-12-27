@@ -9,8 +9,6 @@ By combining DevOps fundamentals with AI-assisted workflows, I focus on improvin
 
 ## 🔧 Core Competencies
 
-## 🔧 Core Competencies
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white" />
