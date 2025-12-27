@@ -13,10 +13,6 @@
   <a href="https://www.credly.com/badges/e6e50fca-04d7-43e7-86a3-393a973f7069/public_url"><img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100"/></a> <a href="https://www.credly.com/badges/f6a80af2-dbab-47a5-9695-c51b8021afb7/public_url"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"/></a> 
 </div>
 
-<br/>
-
-<br/>
-
 ### 🔧 What I Do?
 
 > I build and automate scalable AWS cloud infrastructure using modern DevOps practices. I design CI/CD pipelines, container platforms, and infrastructure-as-code systems that increasingly operate through agentic automation-able to observe system state, make decisions, and act with minimal human intervention.
