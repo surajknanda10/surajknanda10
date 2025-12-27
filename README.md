@@ -68,5 +68,3 @@ By combining DevOps fundamentals with AI-assisted workflows, I focus on improvin
 
 - **LinkedIn:** https://www.linkedin.com/in/suraj-kumar-nanda
 - **Email:** surajknanda5@gmail.com
-
-```md
