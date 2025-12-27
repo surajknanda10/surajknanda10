@@ -24,7 +24,7 @@
       <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform" />
       <br/>
       <img src="https://skillicons.dev/icons?i=githubactions,prometheus,grafana,python,bash" />
-<br/><br/>
+<br/><br/><br/>
       <a href="https://www.credly.com/badges/e6e50fca-04d7-43e7-86a3-393a973f7069/public_url">
     <img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="80"/>
   </a>
