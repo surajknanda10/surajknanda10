@@ -19,10 +19,10 @@ A Senior Software & DevOps Engineer at Bristol Myers Squibb. I build and automat
 
 <br/>
 
-### 💻 Stack I Work With
+### 💻 Stacks I Work With
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,python,bash&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,githubactions,python,bash&perline=10&theme=light" />
 </div>
 
 <br/>
