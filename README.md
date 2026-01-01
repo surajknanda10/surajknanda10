@@ -6,6 +6,7 @@
 Senior DevOps Engineer with 4+ years of experience, passionate about building and automating scalable infrastructure using AWS and modern DevOps practices. I specialize in designing CI/CD pipelines, containerization and IaaC. By combining core DevOps practices with AgenticAI-assisted workflows, I work on improving delivery speed, system reliability, and operational insight. My toolkit includes AWS architecture, Docker, Kubernetes, Terraform, and automation tools, with a strong focus on self-healing systems, rule-based deployments, and smart monitoring to ship faster while keeping systems stable and reliable.
 
 <br/>
+
 ### 🤝 Can Connect With Me On
 
 <div align="left">
