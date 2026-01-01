@@ -3,7 +3,8 @@
 
 ### 🤵🏻 About Me
 
-A Senior Software & DevOps Engineer at Bristol Myers Squibb. I build and automate scalable AWS cloud infrastructure using modern DevOps practices. I design CI/CD pipelines, container platforms, and infrastructure-as-code systems that increasingly operate through agentic automation-able to observe system state, make decisions, and act with minimal human intervention. By combining DevOps fundamentals with AI-assisted workflows, I focus on improving delivery speed, reliability, and operational intelligence. My toolkit spans AWS architecture, Docker, Kubernetes, Terraform, and automation frameworks, with a strong emphasis on autonomous remediation, policy-driven deployments, and intelligent observability to accelerate releases while maintaining resilience and quality.
+Senior DevOps Engineer with 4+ years of experience, passionate about building and automating scalable infrastructure using AWS and modern DevOps practices. I specialize in designing CI/CD pipelines, containerization and IaaC. By combining core DevOps practices with AgenticAI-assisted workflows, I work on improving delivery speed, system reliability, and operational insight. My toolkit includes AWS architecture, Docker, Kubernetes, Terraform, and automation tools, with a strong focus on self-healing systems, rule-based deployments, and smart monitoring to ship faster while keeping systems stable and reliable.
+
 <br/>
 ### 🤝 Can Connect With Me On
 
